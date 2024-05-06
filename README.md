@@ -1,7 +1,7 @@
 # Favorite Places
 
 Aplikacja pozwala na dodawanie ulubionych miejsc.
-  - pozwala na zaznaczenie lokalizacji w google maps
+  - pozwala na wybranie swojej aktualnej lokalizacji lub zaznaczenie w google maps
 
 ![Screen_1](https://github.com/dejwid03/favorite_places_app/blob/main/screenshots/Screenshot_1715029587.png)
 ![Screen_2](https://github.com/dejwid03/favorite_places_app/blob/main/screenshots/Screenshot_1715029556.png)

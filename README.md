@@ -1,6 +1,11 @@
-# favorite_places
+# Favorite Places
 
-A new Flutter project.
+Aplikacja pozwala na dodawanie ulubionych miejsc.
+  - pozwala na zaznaczenie lokalizacji w google maps
+
+![Screen_1](https://github.com/dejwid03/favorite_places_app/blob/main/screenshots/Screenshot_1715029587.png)
+![Screen_2](https://github.com/dejwid03/favorite_places_app/blob/main/screenshots/Screenshot_1715029556.png)
+![Screen_3](https://github.com/dejwid03/favorite_places_app/blob/main/screenshots/Screenshot_1715029528.png)
 
 ## Getting Started
 
